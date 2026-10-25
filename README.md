@@ -55,7 +55,7 @@ Looking for battle-tested alternatives to DocuSign 🖊️, Adobe Acrobat Sign �
 
 ## 🔓 Open-Source Solutions
 
-*💻 Self-hosted, transparent, and privacy-first document management systems and e-signing platforms sorted by GitHub Stars_Counts (descending).*
+*💻 Self-hosted, transparent, and privacy-first document management systems and e-signing platforms sorted by GitHub_Stars_Counts (descending).*
 
 | Project 📦 | GitHub_Stars ⭐ | Description 📝 | Core Tech Stack 🛠️ |
 | :--- | :---: | :--- | :--- |
