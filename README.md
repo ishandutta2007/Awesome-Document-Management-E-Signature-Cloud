@@ -217,3 +217,12 @@ Star the repo if you find it useful!
 
 
 Let's keep RAW processing and DNG conversion open, reliable, and future-proof.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Document-Management-E-Signature-Cloud&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Document-Management-E-Signature-Cloud_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Document-Management-E-Signature-Cloud_growth.svg">
+  </picture>
+</a>
