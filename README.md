@@ -8,7 +8,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome List" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Document-Management-E-Signature-Cloud/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Document-Management-E-Signature-Cloud?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Document-Management-E-Signature-Cloud/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Document-Management-E-Signature-Cloud?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Document-Management-E-Signature-Cloud/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Document-Management-E-Signature-Cloud?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -55,9 +55,9 @@ Looking for battle-tested alternatives to DocuSign 🖊️, Adobe Acrobat Sign �
 
 ## 🔓 Open-Source Solutions
 
-*💻 Self-hosted, transparent, and privacy-first document management systems and e-signing platforms sorted by GitHub star counts (descending).*
+*💻 Self-hosted, transparent, and privacy-first document management systems and e-signing platforms sorted by GitHub Stars_Counts (descending).*
 
-| Project 📦 | GitHub Stars ⭐ | Description 📝 | Core Tech Stack 🛠️ |
+| Project 📦 | GitHub_Stars ⭐ | Description 📝 | Core Tech Stack 🛠️ |
 | :--- | :---: | :--- | :--- |
 | **[Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)** | [![Stirling-PDF Stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=social&color=white)](https://github.com/Stirling-Tools/Stirling-PDF/stargazers) | Powerful, locally hosted web application that lets you edit, sign, convert, split, merge, and secure PDFs without data leaving your server. | Java ☕, Spring Boot 🍃, Docker 🐳 |
 | **[Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** | [![Paperless-ngx Stars](https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social&color=white)](https://github.com/paperless-ngx/paperless-ngx/stargazers) | Community-supported supercharged document management system designed to scan, index, tag, and archive physical and digital paperwork with OCR. | Python 🐍, Django 🎸, Angular 🅰️, Tesseract 👁️ |
@@ -105,3 +105,12 @@ Thank you so much for exploring and using this curated list! 🌟 If you find th
 ## 🤝 Contributing
 
 Contributions, software recommendations, and updates are warmly welcomed! 🎉 Please check our contribution guidelines or submit a pull request with new tools that fit our schema.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Document-Management-E-Signature-Cloud&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Document-Management-E-Signature-Cloud_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Document-Management-E-Signature-Cloud_growth.svg">
+  </picture>
+</a>
